@@ -46,4 +46,5 @@ variable "admin_password" {
 }
 
 # terraform.tfvars
-admin_password = "SenhaForte123!"
+admin_password = "SenhaForte123!"# InfraTerraform
+Subindo uma infra do Azure no terraform sem precisar gerar custos
